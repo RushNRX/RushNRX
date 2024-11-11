@@ -4,12 +4,13 @@
 
 [Rush Network Real-time Explorer](https://www.rushnrx.com) is an all-in-one platform providing real-time market intelligence for cryptocurrency traders, focusing on memecoins and emerging tokens.
 
-### [RushNRX](https://www.rushnrx.com) can be found at https://rushnrx.com
+### [RushNRX](https://www.rushnrx.com) IS FREE and can be found at https://rushnrx.com
+
 For access, join the Discord community. Read below for more information!
 ## 🚀 Key Features
 
 - **Bulk Wallet Tracker**: Real-time wallet analysis and tracking
-  - Analyse 360 wallets within 60 seconds
+  - Analyses over 350 wallets within 60 seconds
   - Track wallet profitability, ROI, and win rates
   - Detect bot activity and fresh wallet indicators
 
