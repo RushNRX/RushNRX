@@ -1,4 +1,4 @@
-# [RushNRX](https://www.rushnrx.com): All-In-One Crypto Intelligence Terminal for Memecoin Traders
+# [RushNRX](https://www.rushnrx.com):  All-In-One Intelligence Platform for Memecoins
 
 ![RushNRX Screenshot](RushNRXScreenshot2.png)
 
